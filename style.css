@@ -1,0 +1,227 @@
+main {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    
+
+  }
+  section {
+    height: 80vh;
+    width: 95vw;
+    margin: auto auto;
+    display: flex;
+    justify-content: space-around;
+    background:#FFFFFF;
+  }
+
+  .div2{
+    position: relative;
+   width: 400px;
+   height: 572px;
+    padding:50px ;
+   border-radius: 21px;
+   background: #FFFFFF;
+
+
+
+   }
+   .div2 span{
+    font-size: 35px;
+    font: inter;
+     font-weight: 700;
+     line-height: 44px;
+     letter-spacing: 0em;
+     text-align: left;
+     
+   }
+   .div2 span h4{
+    position: relative;
+    font-family: Inter;
+   font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+   letter-spacing: 0em;
+   text-align: left;
+   width: 352px;
+   height: 40px;
+  top: 220px;
+  left: 2px;
+  
+   }
+   .div2 div h5{
+    
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A9A9AA;
+   }
+   
+   .div2 span p{
+    font-size: 18px;
+    width: Hug (348.51px);
+    height: Hug (47.92px);
+     gap: 8px;
+   }
+   
+   .div2 span{
+    display: flex;
+    align-items: center;
+   }
+   .div2 div p{
+    font-size: 18px;
+    width: Hug (348.51px);
+    height: Hug (47.92px);
+     gap: 8px;
+
+   }
+
+   .div2 button{
+    position: absolute;
+    width: 352px;
+    height: 64px;
+    top:630px;
+    left: 30px;
+    padding: 12px 0px 12px 0px;
+    border-radius: 12px;
+    border: none;
+   font-size: 23px;
+    color: #FF1D89;
+   
+
+   }
+
+   /* div3 style */
+
+   .div3{
+    position: relative;
+    width: 432px;
+    height: 85%;
+     padding:30px ;
+    border-radius: 21px;
+    background: #0B0641;
+    margin-bottom: 0px;
+
+    
+
+   }
+   .div3 span {
+    display: flex;
+    align-items: center;
+
+   }
+   .div3 span{
+    font-size: 35px;
+    font: inter;
+     font-weight: 700;
+     line-height: 40px;
+     letter-spacing: 0em;
+     text-align: left;
+     color: #FFFFFF;
+     
+   }
+   .div3 div h5{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A9A9AA;
+   }
+   .div3 span p{
+    font-size: 18px;
+    width: Hug (348.51px);
+    height: Hug (47.92px);
+     gap: 8px;
+   }
+   .div3 p{
+    font-size: 18px;
+    width: Hug (348.51px);
+    height: Hug (47.92px);
+     gap: 8px;
+     color: #FFFFFF;
+   }
+    
+    .div3 button{
+      position: absolute;
+      width: 383px;
+     height: 69px;
+      top: 580px;
+      left: 45px;
+      padding: 13px 0px 13px 0px;
+      border-radius: 13px;
+      background: #FF1D89;
+      ;
+      color: #FFFFFF;
+      border: none;
+      font-size: 23px;
+   }
+   .dashed{
+    border-top: 1px dashed #bbb;
+   }
+   /* div4 style */
+   .div4{
+    position: relative;
+   width: 400px;
+   height: 85%;
+    padding:50px ;
+   border-radius: 21px;
+   background: #FFFFFF;
+
+
+   }
+   .div4 span{
+    font-size: 35px;
+    font: inter;
+     font-weight: 700;
+     line-height: 44px;
+     letter-spacing: 0em;
+     text-align: left;
+     
+   }
+   .div4 div h5{
+    
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A9A9AA;
+   }
+   
+   .div4 span p{
+    font-size: 18px;
+    width: Hug (348.51px);
+    height: Hug (47.92px);
+     gap: 8px;
+   }
+   
+   .div4 span{
+    display: flex;
+    align-items: center;
+   }
+   .div4 div p{
+    font-size: 18px;
+    width: Hug (348.51px);
+    height: Hug (47.92px);
+     gap: 8px;
+
+   }
+
+   .div4 button{
+    position: absolute;
+    width: 353px;
+    height: 64px;
+    top: 630px;
+    left: 40px;
+    border-radius: 12px;
+    color: #FF1D89;
+    border: none;
+    font-size: 23px;
+
+   }
